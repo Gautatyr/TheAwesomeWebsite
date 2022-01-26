@@ -9,6 +9,10 @@ ToDo:
     - Justify center
  That way the resizing will be better applied
 
+ - Replace the placeholders with an actual theme 
+
+ - Recenter the top button
+
 
 Credits:
 
